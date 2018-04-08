@@ -1,0 +1,11 @@
+c:\users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Switch\Switch\bin\Debug\netcoreapp2.0\Switch.deps.json
+c:\users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Switch\Switch\bin\Debug\netcoreapp2.0\Switch.runtimeconfig.json
+c:\users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Switch\Switch\bin\Debug\netcoreapp2.0\Switch.runtimeconfig.dev.json
+c:\users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Switch\Switch\bin\Debug\netcoreapp2.0\Switch.dll
+c:\users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Switch\Switch\bin\Debug\netcoreapp2.0\Switch.pdb
+c:\users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Switch\Switch\obj\Debug\netcoreapp2.0\Switch.csprojResolveAssemblyReference.cache
+c:\users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Switch\Switch\obj\Debug\netcoreapp2.0\Switch.csproj.CoreCompileInputs.cache
+c:\users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Switch\Switch\obj\Debug\netcoreapp2.0\Switch.AssemblyInfoInputs.cache
+c:\users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Switch\Switch\obj\Debug\netcoreapp2.0\Switch.AssemblyInfo.cs
+c:\users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Switch\Switch\obj\Debug\netcoreapp2.0\Switch.dll
+c:\users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Switch\Switch\obj\Debug\netcoreapp2.0\Switch.pdb
